@@ -1,0 +1,14 @@
+body{
+    font-family: Calibri;
+    font-size: 20px;
+    color: black;
+    background-color: skyblue;
+}
+
+h1 {
+    font-family: Dubai;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
